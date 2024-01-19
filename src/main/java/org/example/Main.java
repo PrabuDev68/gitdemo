@@ -9,4 +9,7 @@ public class Main {
     private static void printStatement() {
         System.out.println("Printing statement...");
     }
+    private static void printHariDev() {
+        System.out.println("printing hari dev");
+    }
 }
